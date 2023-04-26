@@ -7,7 +7,7 @@
 .hero{
     width: 100%;
     min-height: 100vh;
-    background: #F4BFBF;
+    background: #92f699;
     color: black;
     font-weight: bold;
     display: flex;
@@ -19,7 +19,7 @@
     padding: 30px;
     display: flex;
     flex-direction: column;
-    background-color:#FFD9C0;
+    background-color:#d7ef26;
 }
 .hero .container .randomNum{
     background: #FAF0D7;
@@ -47,8 +47,8 @@
     border: none;
     outline: none;
     width: 100%;
-    background: #FAF0D7;
-    color: red;
+    background: #add229;
+    color: rgb(252, 245, 245);
     font-weight: bold;
 }
 .hero .container button{
